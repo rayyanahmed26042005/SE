@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Event Registration - Virtual Event</title>
+    <title>Event Registration - Virtual Event rayan</title>
     <style>
         body {
             font-family: Arial, sans-serif;
