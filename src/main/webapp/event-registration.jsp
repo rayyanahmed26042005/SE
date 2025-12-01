@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Event Registration - Virtual Event rayyan mujtaba</title>
+    <title>Event Registration - Virtual Event rayyan mujtaba musab</title>
     <style>
         body {
             font-family: Arial, sans-serif;
