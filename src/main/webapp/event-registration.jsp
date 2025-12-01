@@ -73,7 +73,7 @@
                 <option value="startup">Startup Pitch Event</option>
             </select>
 
-            <label for="date">Event Date:</label>
+            <label for="date">Event Date:-</label>
             <input type="date" id="date" name="date" required>
 
             <button type="submit">Register Now</button>
